@@ -1,0 +1,33 @@
+{
+  "serviceResponseType": "OK",
+  "serviceResponseMessage": "OK",
+  "payload": {
+    "sailboats": [
+        {
+          "name": "Benetau First 14",
+          "size": 14,
+          "cost": 18000
+        },
+        {
+          "name": "Catalina 22",
+          "size": 22,
+          "cost": 25000
+        },
+        {
+          "name": "Sun Oddyssey 349",
+          "size": 35,
+          "cost": 120000
+        },
+        {
+          "name": "Catalina 42",
+          "size": 42,
+          "cost": 250000
+        },
+        {
+          "name": "F50 Catamaran",
+          "size": 50,
+          "cost": 500000
+        }
+      ]
+  }
+}

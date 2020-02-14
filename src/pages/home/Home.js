@@ -8,7 +8,7 @@ import SailBoatImage from './assets/buying-a-sailboat-checklist.jpg';
 
 const Home = (props) => {
     return (
-        <Card id={'#home-page'}>
+        <Card id={'#home-page'} className={'home-page'}>
             <CardActionArea>
                <img
                    style={{

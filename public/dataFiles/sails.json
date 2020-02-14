@@ -1,0 +1,24 @@
+{
+  "sails": [
+    {
+      "name": "Main Sail",
+      "cost": 2200
+    },
+    {
+      "name": "Storm Jib",
+      "cost": 1000
+    },
+    {
+      "name": "Jib",
+      "cost": 1200
+    },
+    {
+      "name": "Genoa",
+      "cost": 1500
+    },
+    {
+      "name": "Genaker",
+      "cost": 3000
+    }
+  ]
+}
